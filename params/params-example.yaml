@@ -144,10 +144,10 @@ agents:
 #######################################################################
 ## static GIS data sets
 gis:
-  fileroot: "/Users/matt/iCloud/WSU/livestock/data/ABM csv/"
-  coordinates: "/Users/matt/iCloud/WSU/livestock/data/ABM_GridCoordinates.csv"
-  villages: "/Users/matt/iCloud/WSU/livestock/data/villages.csv"
-  waterbodies: "/Users/matt/iCloud/WSU/livestock/data/waterbodies.csv"
-  fci: "/Users/matt/iCloud/WSU/livestock/data/SmaburuWest_FCI.csv"
-  fcinew: "/Users/matt/iCloud/WSU/livestock/data/FCI_data_2003_2020.csv"
-  paths: "/Users/matt/iCloud/WSU/livestock/data/paths.csv"
+  fileroot: "./data/v0.1-data/ABM csv/"
+  coordinates: "./data/v0.1-data/ABM_GridCoordinates.csv"
+  villages: "./data/v0.1-data/villages.csv"
+  waterbodies: "./data/v0.1-data/waterbodies.csv"
+  fci: "./data/v0.1-data/SmaburuWest_FCI.csv"
+  fcinew: "./data/v0.1-data/FCI_data_2003_2020.csv"
+  paths: "./data/v0.1-data/paths.csv"
